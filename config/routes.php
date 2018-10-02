@@ -1,20 +1,9 @@
 <?php
 
 return array(
-
-
-
-
-  'index' => 'post/index', // actionIndex в postController
-    'post/([0-9]+)' => 'post/view/$1',
     'form' =>'post/form',
-
-
-
-
-
-
-
-
+    'post/([0-9]+)' => 'post/view/$1',
+    '' => 'post/index',
+    '/'=> 'post',
     
 );

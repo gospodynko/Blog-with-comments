@@ -10,7 +10,6 @@ class Db {
         $db = new PDO($dsn,$params['user'],$params['password']);
         $db->exec("set name utf8");
         
-        
         return $db;
     }
 

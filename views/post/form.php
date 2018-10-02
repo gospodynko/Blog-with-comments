@@ -14,6 +14,6 @@
         </div>
 
 
-        <p><a href="index"><input type="submit" name = "submit" /></p></a></div>
+        <p><a href="/"><input type="submit" name = "submit" /></p></a></div>
 
 </form>

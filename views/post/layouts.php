@@ -20,7 +20,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/index">Blog</a>
+            <a class="navbar-brand" href="/">Blog</a>
             <a class="navbar-brand" href="/form">Create</a>
 
         </div>
